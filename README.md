@@ -2,7 +2,7 @@
 
 Este é um projeto desenvolvido para criar e manipular desenhos bidimensionais em Java. A aplicação permite aos usuários desenhar formas geométricas básicas e interagir com elas de maneira intuitiva.
 
-![Print]![Captura de tela 2024-11-01 135029](https://github.com/user-attachments/assets/60554f15-3590-463f-b7df-5027d274d20e)
+![Print](https://github.com/user-attachments/assets/60554f15-3590-463f-b7df-5027d274d20e)
 
 
 
